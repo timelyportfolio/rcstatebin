@@ -29,5 +29,9 @@ dependencies:
   src: htmlwidgets/lib/d3statebin
   script: d3statebin.js
   style: d3statebin.css
-
+- name: stateface
+  version: 0.1
+  src: htmlwidgets/lib/stateface
+  script: stateface.js
+  style: stateface.css
 
